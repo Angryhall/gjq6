@@ -1,0 +1,5 @@
+#inckude<stdio.h>
+void main()
+{
+  printf("hello word");
+}
